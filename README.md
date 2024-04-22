@@ -46,8 +46,8 @@ From the above graph, we can conclude that the model is well trained and paramet
 The graph is made for the sample which has best accuracy. Sample 1 has the best accuracy of 0.94 having kernel = Linear, Nu = 5.92 and Epsilon = 7.25.
 
 ## Written By
-Name : Parv Gupta
+Name : Shaurya Goel
   
-Roll No. : 102017186
+Roll No. : 102103339
 
-Sub-Group: 3CS8
+Sub-Group: 3CO12
